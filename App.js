@@ -5,6 +5,7 @@ const App = () => {
   return (
     <View>
       <Text>Welcome to our Scanner App</Text>
+      <Text>Scan any receipt</Text>
     </View>
   );
 };
